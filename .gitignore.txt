@@ -1,0 +1,20 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data Files
+*.txt
+*.csv
+*.txt.gz
+
+# Model Artifacts 
+*.joblib
+*.pkl
+*.h5
+
+# OS Files
+.DS_Store
+Thumbs.db
