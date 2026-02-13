@@ -1,7 +1,4 @@
 # Sentinel--ML
-Doğukan, GitHub reponun "vitrini" olacak profesyonel bir README.md dosyası hazırladım. Bu dosya, hem projenin teknik derinliğini gösteriyor hem de bir mühendislik disipliniyle yazıldığı için Erasmus başvurunda seni çok profesyonel gösterecektir.
-
-Aşağıdaki metni kopyalayıp GitHub'daki README.md dosyana yapıştırabilirsin:
 
 Sentinel-ML: Autonomous Network Intrusion Detection System 🛡️
 Sentinel-ML is a high-performance, machine learning-based security framework designed to identify and classify network intrusions. By leveraging the industry-standard NSL-KDD dataset, the system provides a robust defense mechanism against various cyber threats through automated traffic analysis.
